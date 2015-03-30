@@ -1,0 +1,63 @@
+header {
+  padding-top: 16px
+}
+
+article p {
+  background-color: white;
+  color: black
+}
+
+header {
+  background-color: white;
+}
+
+header h1 {
+  color: black;
+  text-align: center;
+  font-size: 4em;
+  font-weight: lighter;
+}
+
+article {
+  background-color: white
+}
+
+header p {
+  color: black
+}
+
+header img {
+  padding-left: 440px;
+  padding-top: 25px;
+}
+
+section img {
+  border-radius: 50%;
+}
+
+aside {
+  background-color: transparent;
+  box-shadow: none;
+  width: 27%
+}
+
+aside section {
+  background: white;
+}
+
+aside p {
+  font-family: cursive;
+  text-decoration: underline;
+}
+
+.brand-colour {
+  color: red
+}
+
+.important {
+  color: orange
+}
+
+ul {
+  list-style: square;
+}
